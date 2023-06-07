@@ -1,14 +1,14 @@
 ### Hi there 👋🏿
 
-<!-- My name is Brittany! I am currently enrolled in the Level Up in Tech Program where I am studying DevOps and Cloud Engineering. -->
+### My name is Brittany! I am currently enrolled in the Level Up in Tech Program where I am studying DevOps and Cloud Engineering. 
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-<Brittany%20Jones>-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brittanyjonesd/
-[![Medium Badge](https://img.shields.io/badge/<Brittany%20Jones>-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@brittany_jones
-[![Gmail Badge](https://img.shields.io/badge/-<britzay1009@gmail.com>-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:britzay1009@gmail.com)](mailto:britzay1009@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/brittany-jones-45495bab/))
+![Medium Badge](https://img.shields.io/badge/<-12100E?style=flat-square&logo=medium&logoColor=white&link)
+![Gmail Badge](https://img.shields.io/badge/-britzay1009@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link)
 
 ## ⚡ Technologies
 
